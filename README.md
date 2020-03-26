@@ -17,7 +17,6 @@ Description:
 ## tic_tac_toe
 Concepts:
 - Python fundamentals (data types, data structures, conditionals, loops)
-- Matrix
 - Matrix functionality
 - Scalability
 

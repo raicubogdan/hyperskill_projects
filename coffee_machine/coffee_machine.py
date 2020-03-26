@@ -1,3 +1,9 @@
+# Simulation a real world coffee machine 
+# (resources, buy function, refill function, interface)
+
+# Defining the state of the coffee_machine and 
+# the cost of the products. Each of them has a 
+# lenght of 5, so we can easily iterate of them
 resources = ['water', 'milk', 'beans', 'cups', 'money']
 state = [400, 540, 120, 9, 550]
 espresso = [250, 0, 16, 1, -4]
@@ -5,12 +11,16 @@ latte = [350, 75, 20, 1, -7]
 cappuccino = [200, 100, 12, 1, -6]
 
 def check(tip):
+    """Checks if the coffee_machine has enough
+    resources to make the specified product"""
     for i, _ in enumerate(tip):
         if state[i] < tip[i]:
             return i
     return i
-    
+
 def buy(tip):
+    """ Subtracts resources from the coffee_machine
+    and adds money """
     if tip == '1':
         tip = espresso
     elif tip == '2':
@@ -28,12 +38,15 @@ def buy(tip):
         print(f'Sorry, not enough {resources[index]}!')
     
 def fill():
+    """Refills coffee_machine resources"""
+
     state[0] += int(input('Write how many ml of water do you want to add:'))
     state[1] += int(input('Write how many ml of milk do you want to add:'))
     state[2] += int(input('Write how many grams of coffee beans do you want to add:'))
     state[3] += int(input('Write how many disposable cups of coffee do you want to add:'))
 
 def display():
+    "coffee_machine interface"
     print(f'''
 The coffee machine has:
 {state[0]} of water
@@ -46,7 +59,7 @@ The coffee machine has:
 while True:
     action = input('Write action (buy, fill, take, remaining, exit):')
 
-    if action == 'take':
+    if action == 'take': # Gets the money from the coffee_machine
         print(f'I gave you ${state[4]}')
         state[4] = 0
         

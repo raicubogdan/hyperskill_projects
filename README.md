@@ -64,4 +64,4 @@ Concepts:
 - Modular programming
 
 Description:
-A python program that displays news from https://hotnews.ro in CLI
+- A python program that displays news from https://hotnews.ro in CLI

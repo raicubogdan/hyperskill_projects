@@ -5,10 +5,11 @@ Various Python projects that I finished while learning to code
 
 # Table of contents (ordered by level of difficulty):
 
-* coffee_machine
+* coffee_machine(#coffee)
 * tic_tac_toe
 * CLI_file_manager
 ______________________________________________________________________________________________________________
+<a name="coffee"></a>
 ## coffee_machine
 
 Level: beginner

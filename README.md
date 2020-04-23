@@ -3,7 +3,7 @@
 Various Python projects that I finished while learning to code
 * Comments and docstrings included
 
-# Table of contents (ordered by level of difficulty):
+## Table of contents (ordered by level of difficulty):
 
 * [coffee_machine](#coffee)
 * [tic_tac_toe](#tic)

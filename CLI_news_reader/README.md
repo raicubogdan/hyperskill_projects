@@ -9,5 +9,5 @@ pip install bs4
 
 ### To run in Linux terminal from root folder:
 ```bash
-python main.py
+$python main.py
 ```

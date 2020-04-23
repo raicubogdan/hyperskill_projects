@@ -1,15 +1,9 @@
-# CLI File Manager
-
-CLI file manager that recursively copies, cuts, deletes
-and renames files in and from a directory or directory tree
-
-#### Requirements: python3.6, send2trash
-
+### Requirements: Python 3.X, send2trash
 ```bash
-pip install send2trash
+pip3 install send2trash
 ```
-To run the program, go to the root folder of the program in your terminal:
 
+### To run in Linux terminal from root folder:
 ```bash
-python file_manager.py
+$python CLI_file_manager.py
 ```

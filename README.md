@@ -5,9 +5,9 @@ Various Python projects that I finished while learning to code
 
 # Table of contents (ordered by level of difficulty):
 
-### coffee_machine
-### tic_tac_toe
-### CLI_file_manager
+* coffee_machine
+* tic_tac_toe
+* CLI_file_manager
 ______________________________________________________________________________________________________________
 ## coffee_machine
 

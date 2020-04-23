@@ -9,9 +9,9 @@ Various Python projects that I finished while learning to code
 * [tic_tac_toe](#tic)
 * [CLI_file_manager](#fileman)
 ______________________________________________________________________________________________________________
-<a name="coffee"></a>
+<a name="coffee">https://github.com/raicubogdan/Projects/tree/master/coffee_machine</a>
 ## coffee_machine
-<a href='https://github.com/raicubogdan/Projects/tree/master/tic_tac_toe'>Go to project</a>
+
 
 Level: beginner
 
@@ -24,7 +24,7 @@ Description:
 
 <a name="tic"></a>
 ## tic_tac_toe
-
+<a href='https://github.com/raicubogdan/Projects/tree/master/tic_tac_toe'>Go to project</a>
 Level: beginner - intermediate
 
 Concepts:
@@ -36,7 +36,7 @@ Description:
 - A scalable game of tic-tac-toe with interface
 <a name="fileman"></a>
 ## CLI File Manager
-
+<a href='https://github.com/raicubogdan/Projects/tree/master/CLI_file_manager'>Go to project</a>
 Level: beginner - intermediate
 
 Concepts:

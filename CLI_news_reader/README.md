@@ -1,4 +1,5 @@
-Requirements: python3.6, requests, bs4
+Requirements: 
+<strong>python3.X, requests, bs4</strong>
 
 ```bash
 pip install requests

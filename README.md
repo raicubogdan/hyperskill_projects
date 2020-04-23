@@ -9,7 +9,7 @@ Various Python projects that I finished while learning to code
 * [tic_tac_toe](#tic)
 * [CLI_file_manager](#fileman)
 ______________________________________________________________________________________________________________
-<a name="coffee">
+<a name="coffee"></a>
 ## coffee_machine
 <a href='https://github.com/raicubogdan/Projects/tree/master/coffee_machine'>Go to project</a>
 

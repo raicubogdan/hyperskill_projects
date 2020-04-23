@@ -5,7 +5,7 @@ Various Python projects that I finished while learning to code
 
 ## coffee_machine
 
-Level: basic
+Level: beginner
 
 Concepts:
 - Python fundamentals (data types, data structures, conditionals, loops)
@@ -15,6 +15,9 @@ Description:
 - Simulation a real world coffee machine (resources, buy function, refill function, interface)
 
 ## tic_tac_toe
+
+Level: begginer - intermediate
+
 Concepts:
 - Python fundamentals (data types, data structures, conditionals, loops)
 - Matrix functionality

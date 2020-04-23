@@ -1,5 +1,5 @@
 
-Requirements:
+<strong>Requirements:</strong>
 
 Python 3.X | send2trash
 

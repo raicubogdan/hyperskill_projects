@@ -6,8 +6,8 @@ Various Python projects that I finished while learning to code
 # Table of contents (ordered by level of difficulty):
 
 * [coffee_machine](#coffee)
-* tic_tac_toe
-* CLI_file_manager
+* [tic_tac_toe](#tic)
+* [CLI_file_manager](#fileman)
 ______________________________________________________________________________________________________________
 <a name="coffee"></a>
 ## coffee_machine
@@ -20,7 +20,7 @@ Concepts:
 
 Description:
 - Simulation a real world coffee machine (resources, buy function, refill function, interface)
-
+<a name="tic"></a>
 ## tic_tac_toe
 
 Level: beginner - intermediate
@@ -32,7 +32,7 @@ Concepts:
 
 Description:
 - A scalable game of tic-tac-toe with interface
-
+<a name="fileman"></a>
 ## CLI File Manager
 
 Level: beginner - intermediate

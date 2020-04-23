@@ -25,6 +25,7 @@ Description:
 <a name="tic"></a>
 ## tic_tac_toe
 <a href='https://github.com/raicubogdan/Projects/tree/master/tic_tac_toe'>Go to project</a>
+
 Level: beginner - intermediate
 
 Concepts:
@@ -37,6 +38,7 @@ Description:
 <a name="fileman"></a>
 ## CLI File Manager
 <a href='https://github.com/raicubogdan/Projects/tree/master/CLI_file_manager'>Go to project</a>
+
 Level: beginner - intermediate
 
 Concepts:

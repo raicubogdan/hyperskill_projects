@@ -8,6 +8,7 @@ Various Python projects that I finished while learning to code
 * [coffee_machine](#coffee)
 * [tic_tac_toe](#tic)
 * [CLI_file_manager](#fileman)
+* [CLI_news_reader](#reader)
 ______________________________________________________________________________________________________________
 <a name="coffee"></a>
 ## coffee_machine
@@ -36,7 +37,7 @@ Concepts:
 Description:
 - A scalable game of tic-tac-toe with interface
 <a name="fileman"></a>
-## CLI File Manager
+## CLI_file_manager
 <a href='https://github.com/raicubogdan/Projects/tree/master/CLI_file_manager'>Go to project</a>
 
 Level: beginner - intermediate
@@ -49,3 +50,6 @@ Concepts:
 Description:
 - CLI file manager that recursively copies, cuts, deletes
 and renames files in and from a directory or directory tree
+<a name="reader"></a>
+## CLI_news_reader
+<a href="https://github.com/raicubogdan/Projects/tree/master/CLI_news_reader">Go to project</a>

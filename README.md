@@ -11,6 +11,7 @@ Various Python projects that I finished while learning to code
 ______________________________________________________________________________________________________________
 <a name="coffee"></a>
 ## coffee_machine
+<a href='https://github.com/raicubogdan/Projects/tree/master/tic_tac_toe'>Go to project</a>
 
 Level: beginner
 
@@ -20,6 +21,7 @@ Concepts:
 
 Description:
 - Simulation a real world coffee machine (resources, buy function, refill function, interface)
+
 <a name="tic"></a>
 ## tic_tac_toe
 

@@ -1,4 +1,6 @@
-### Requirements: Python 3.X, send2trash
+### Requirements:
+Python 3.X
+send2trash
 ```bash
 pip3 install send2trash
 ```

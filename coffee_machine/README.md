@@ -1,6 +1,6 @@
 ### Requirements: Python 3.X
 
-### To run in Linux terminal:
+### To run in Linux terminal from root folder:
 ```bash
 $python coffe_machine.py
 ```

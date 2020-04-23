@@ -1,4 +1,4 @@
-# Practice Python Projects
+# Python Practice Projects
 
 Various Python projects that I finished while learning to code
 * Comments and docstrings included

@@ -53,3 +53,15 @@ and renames files in and from a directory or directory tree
 <a name="reader"></a>
 ## CLI_news_reader
 <a href="https://github.com/raicubogdan/Projects/tree/master/CLI_news_reader">Go to project</a>
+
+Level: intermediate
+
+Concepts:
+- Communicating with websites through Python
+- Web parsing and CSS Selectors
+- Grabbing content from websites
+- OOP (classes, objects, methods, attributes)
+- Modular programming
+
+Description:
+A python program that displays news from https://hotnews.ro in CLI

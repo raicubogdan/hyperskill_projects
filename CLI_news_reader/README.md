@@ -1,4 +1,5 @@
-<strong>Requirements:</strong> 
+<strong>Requirements:</strong>
+
 python3.6, requests, bs4
 
 ```bash

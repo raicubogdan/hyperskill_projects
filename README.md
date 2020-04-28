@@ -9,7 +9,6 @@ Various Python projects that I finished while learning to code
 * [tic_tac_toe](#tic)
 * [CLI_file_manager](#fileman)
 * [CLI_news_reader](#reader)
-* [war_card_game](#war)
 ______________________________________________________________________________________________________________
 <a name="coffee"></a>
 ## coffee_machine

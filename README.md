@@ -82,4 +82,5 @@ Concepts:
 - Modular programming
 
 Description:
+
 -A program with verbose terminal descriptions that simulates a game of war against a computer 

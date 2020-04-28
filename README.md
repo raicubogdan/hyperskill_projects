@@ -68,19 +68,3 @@ Concepts:
 
 Description:
 - A python program that displays news from https://hotnews.ro in CLI
-
-<a name="war"></a>
-## war_card_game
-<a href="https://github.com/raicubogdan/Projects/tree/master/war_card_game">Go to project</a>
-
-Level: intermediate
-
-Concepts:
-- Tackling limit situations
-- Complex game mechanics
-- Verbose program
-- Modular programming
-
-Description:
-
--A program with verbose terminal descriptions that simulates a game of war against a computer 
